@@ -1,0 +1,6 @@
+D:\TutProjects\Service\Client\bin\Release\Client.exe.config
+D:\TutProjects\Service\Client\bin\Release\Client.exe
+D:\TutProjects\Service\Client\bin\Release\Client.pdb
+D:\TutProjects\Service\Client\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TutProjects\Service\Client\obj\x86\Release\Client.exe
+D:\TutProjects\Service\Client\obj\x86\Release\Client.pdb

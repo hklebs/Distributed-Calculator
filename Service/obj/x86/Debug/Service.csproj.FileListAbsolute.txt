@@ -1,0 +1,10 @@
+D:\TutProjects\Service\Service\bin\Debug\Service.exe
+D:\TutProjects\Service\Service\bin\Debug\Service.pdb
+D:\TutProjects\Service\Service\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TutProjects\Service\Service\obj\x86\Debug\Service.exe
+D:\TutProjects\Service\Service\obj\x86\Debug\Service.pdb
+D:\TutProjects\Calculator\Service\obj\x86\Debug\Service.exe
+D:\TutProjects\Calculator\Service\obj\x86\Debug\Service.pdb
+D:\TutProjects\Calculator\Service\bin\Debug\Service.exe
+D:\TutProjects\Calculator\Service\bin\Debug\Service.pdb
+D:\TutProjects\Calculator\Service\obj\x86\Debug\ResolveAssemblyReference.cache

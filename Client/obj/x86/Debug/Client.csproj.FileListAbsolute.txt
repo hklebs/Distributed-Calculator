@@ -1,0 +1,17 @@
+D:\TutProjects\Service\Client\bin\Debug\Client.exe
+D:\TutProjects\Service\Client\bin\Debug\Client.pdb
+D:\TutProjects\Service\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TutProjects\Service\Client\obj\x86\Debug\Client.exe
+D:\TutProjects\Service\Client\obj\x86\Debug\Client.pdb
+D:\TutProjects\Service\Client\bin\Debug\Client.exe.config
+D:\TutProjects\Service\Client\obj\x86\Debug\Client.CalculatorForm.resources
+D:\TutProjects\Service\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TutProjects\Service\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TutProjects\Calculator\Client\bin\Debug\Client.exe
+D:\TutProjects\Calculator\Client\bin\Debug\Client.pdb
+D:\TutProjects\Calculator\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TutProjects\Calculator\Client\obj\x86\Debug\Client.CalculatorForm.resources
+D:\TutProjects\Calculator\Client\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TutProjects\Calculator\Client\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TutProjects\Calculator\Client\obj\x86\Debug\Client.exe
+D:\TutProjects\Calculator\Client\obj\x86\Debug\Client.pdb

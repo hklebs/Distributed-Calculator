@@ -1,0 +1,5 @@
+D:\TutProjects\Service\Service\bin\Release\Service.exe
+D:\TutProjects\Service\Service\bin\Release\Service.pdb
+D:\TutProjects\Service\Service\obj\x86\Release\ResolveAssemblyReference.cache
+D:\TutProjects\Service\Service\obj\x86\Release\Service.exe
+D:\TutProjects\Service\Service\obj\x86\Release\Service.pdb
